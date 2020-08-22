@@ -122,9 +122,12 @@ line-height: 1.8;
 font-weight: 450;
 }
 @media (max-width: 1399px){
-	header{
-		background-size: 800px;
-
+	header {
+    background: #37517E;
+    background-image: url(../images/logo2.png);
+    background-repeat: no-repeat;
+    background-size: 800px;
+    background-position: right center;
 }
 
 }
